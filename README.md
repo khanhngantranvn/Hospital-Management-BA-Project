@@ -27,7 +27,7 @@ Proposed a digital hospital management system that:
 - Class Diagram
 # 5. Diagrams
 ### As-Is Business Process
-![As-Is](diagrams/as-is-process.png)
+![As-Is](BPMN/Current System/BPMN_Tổng quát.png)
 
 ### To-Be Business Process
 ![To-Be](diagrams/to-be-process.png)
