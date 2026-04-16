@@ -33,7 +33,7 @@ Proposed a digital hospital management system that:
 ![To-Be](BPMN/New_System/to_be_process.png)
 
 ### Use Case Diagram
-![Use Case](diagrams/usecase.png)
+![Use Case](diagrams/usecase/overview.png)
 # 6. Tools & Skills
 - Business Analysis
 - Requirement Gathering
