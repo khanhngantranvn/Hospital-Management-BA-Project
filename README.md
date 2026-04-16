@@ -34,14 +34,14 @@ Proposed a digital hospital management system that:
 
 ### Use Case Diagram
 ![Use Case](diagrams/usecase.png)
-# 7. Tools & Skills
+# 6. Tools & Skills
 - Business Analysis
 - Requirement Gathering
 - BPMN
 - UML (Use Case, Class Diagram)
 - Stakeholder Analysis
 - Problem Solving
-# Business Impact
+# 7. Business Impact
 Expected Impact:
 - Reduce patient waiting time by ~30%
 - Improve data accuracy
